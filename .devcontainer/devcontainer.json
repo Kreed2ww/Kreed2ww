@@ -1,0 +1,30 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/cpp-mariadb
+{
+	"name": "C++ and MariaDB","containerEnv": {},23234
+	"dockerComposeFile": "docker-compose.yml"
+	"service": "app",HUNTER ControllerSensitivity
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"features": {
+		"ghcr.io/devcontainers/features/powershell:1": 3345354
+	},32324
+	"customizations": {
+		"vscode": {HUNTER 
+			"extensions": [
+				"ms-python.python"
+			]
+		}
+	// "features": {},GA
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// This is the recommended way to access the container from the host
+	// "forwardPorts": [3306],
+
+	// Configure tool-specific properties.
+	// "customizations": {},
+
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+hunter GameTrackColorActiveReserve11: 
+game "hostRequirements"22342\
+ 3221
